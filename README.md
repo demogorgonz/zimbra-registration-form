@@ -1,3 +1,3 @@
 # zimbra-registration-form
 
-# Zimbra registration form
+# Zimbra account registration form
